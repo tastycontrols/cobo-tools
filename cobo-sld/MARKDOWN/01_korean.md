@@ -1,0 +1,49 @@
+## Table Of Contents: ```./cobo-sld/korean.json.subset```
+
+[Bibimbap with Chicken Bulgogi](#bibimbap-with-chicken-bulgogi)\
+
+
+ ___ 
+## Bibimbap with Chicken Bulgogi
+
+#### COBO Metadata
+```
+index:14082021200831
+handle:bibimbap-with-chicken-bulgogi
+tags:['korean', 'rice-bowl']
+```
+
+#### Notes
+Process produce for *mise en place* first, then cut chicken and marinate. Then, make gochujang aioli, start rice soaking, and cook eggs. Toward end of marination, start cooking rice; midway through, start cooking chicken. Rest everything before serving
+
+#### Ingredients
+ - [ ] Chicken bulgogi
+   - [ ] 1x medium pear, peeled and grated
+   - [ ] 1 tbsp brown sugar
+   - [ ] 3 tbsp soy sauce
+   - [ ] 1 tbsp sesame oil
+   - [ ] 1-inch ginger, peeled and grated
+   - [ ] 5-6 cloves garlic, minced
+   - [ ] Black pepper
+   - [ ] 2x boneless skinless chicken thighs, cut bite-sized
+   - [ ] Inert oil (e.g., grapeseed, peanut, canola)
+ - [ ] Gochujang aioli
+   - [ ] Kewpie mayo
+   - [ ] Gochujang
+   - [ ] Lime juice, for acidity
+   - [ ] Maple syrup, to balance
+ - [ ] Steamed rice
+ - [ ] Kimchi
+ - [ ] 6.5-min eggs
+ - [ ] English cucumber, julienned
+ - [ ] Bean sprouts
+
+#### Method
+1. Form chicken bulgogi. Mix all ingredients except chicken in a gallon freezer bag, squish to mix, then add chicken and squish to coat. Marinate in refrigerator for 1 hr before cooking
+2. Meanwhile, make gochujang aioli, cook eggs, and cook rice
+3. To cook bulgogi, heat inert oil in a pan over high heat until shimmering. Empty all contents of marination bag into pan, spread out, and drop heat to medium high. Simmer with occasional tossing until chicken is cooked, and liquid has evaporated to form a glaze
+4. Serve bulgogi over steamed rice, add gochujang aioli (and/or gochujang) and kimchi, and top with a 6.5-min egg, cucumber, and bean sprouts
+
+
+
+
